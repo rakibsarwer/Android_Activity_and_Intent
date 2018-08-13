@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Facebook Post</string>
+    <string name="rakib_sarwer">Rakib Sarwer</string>
+    <string name="profile">Profile</string>
+    <string name="textview">TextView</string>
+    <string name="public">public</string>
+    <string name="dot">dot</string>
+    <string name="textview">TextView</string>
+
+</resources>

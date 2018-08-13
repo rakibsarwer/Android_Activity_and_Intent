@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">FbPost</string>
+    <string name="second_activity">Second Activity</string>
+    <string name="go_to_next">Go to Next</string>
+</resources>
